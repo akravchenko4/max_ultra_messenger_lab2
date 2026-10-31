@@ -5,7 +5,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from config import TOP_K
 from preprocessing import tokenize_and_process, preprocess_text, build_document_corpus_series
-
+"""Давлатов Мансур МТ-202"""
 
 class WordOverlapSearcher:
     """Базовый поиск по пересечению множества слов запроса и документа."""
