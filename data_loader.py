@@ -1,3 +1,4 @@
+"""Соболев Вадим МТ-202"""
 from pathlib import Path
 from typing import Tuple, Dict, Any
 import pandas as pd
