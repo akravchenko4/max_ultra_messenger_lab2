@@ -1,3 +1,4 @@
+'''Кравченко Андрей мт-202'''
 import pandas as pd
 from config import (
     CONFIGURATIONS,
