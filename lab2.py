@@ -10,7 +10,7 @@ from config import (
 from data_loader import load_datasets, inspect_corpus, print_corpus_report
 from search_models import WordOverlapSearcher, TfidfSearcher
 from evaluation import compute_metrics_at_k
-
+"""Исаев Максим МТ-202"""
 
 def main() -> None:
     # 1. Загрузка и исследование корпуса
